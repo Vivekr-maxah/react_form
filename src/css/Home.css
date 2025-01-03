@@ -1,0 +1,60 @@
+hr {
+  width: 10%;
+  margin: auto;
+  border: 2px solid black;
+}
+
+.img img {
+  width: 100%;
+  border-radius: 10px;
+}
+
+.card {
+  width: 18rem;
+}
+
+/* -----------card-pro--------------- */
+.card-pro {
+  display: flex;
+  gap: 3%;
+  padding-left: 180px;
+}
+
+.main-pieces {
+  margin-top: 5%;
+  margin-left: 11%;
+}
+
+.main-pieces {
+  display: flex;
+}
+
+.image_gold {
+  display: flex;
+  position: relative;
+}
+.bg1 {
+  margin-left: 100%;
+}
+.bg2 {
+  margin-top: 20%;
+  position: absolute;
+  margin-left: 40%;
+}
+
+.unique_pieces {
+  margin-top: 10%;
+}
+
+.best-in-business {
+  text-align: center;
+  margin-top: 5%;
+}
+
+.doom {
+  display: flex;
+}
+
+.big-discounts {
+  margin: 5%;
+}
